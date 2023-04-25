@@ -1,5 +1,5 @@
-def main()
-print("Hello from github actions")
+def main():
+  print("Hello from GitHub Actions!")
 
 
 if __name__ == '__main__':
